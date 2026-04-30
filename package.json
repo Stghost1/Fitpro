@@ -1,0 +1,26 @@
+{
+  "name": "fitpro",
+  "version": "1.0.0",
+  "description": "FitPro — AI-powered fitness SaaS with Stripe payments",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "lucide-react": "^0.383.0",
+    "stripe": "^14.21.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
