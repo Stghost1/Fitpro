@@ -1,0 +1,35 @@
+{
+  "name": "FitPro — Your Body, Redefined.",
+  "short_name": "FitPro",
+  "description": "AI-powered fitness platform with personalized workouts and nutrition for every body and goal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#060912",
+  "theme_color": "#A8FF3E",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["health", "fitness"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-home.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "label": "Home Dashboard"
+    }
+  ]
+}
